@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @dunken38
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Привет! Здесь я работаю со всеми своими проектами
+- 👀 Использую HTML,CSS,JavaScript
+- 🌱 Из интересного
 - 📫 How to reach me ...
-
-<!---
-dunken38/dunken38 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
